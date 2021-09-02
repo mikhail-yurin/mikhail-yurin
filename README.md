@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikhail-yurin
 - 👀 I’m interested in... Wait for it... Wait for it... Programming!)))
-- 🌱 I’m currently learning mobile development
+- 🌱 I’m currently working as a front end developer
 - ✨ I’m looking to collaborate on NASA
 
 <!---
