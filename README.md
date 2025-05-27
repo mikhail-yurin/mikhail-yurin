@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mikhail-yurin
-- 👀 I’m interested in... Wait for it... Wait for it... Programming!)))
+- 👀 I’m interested in... Wait for it... Wait for it... Programming! 😻
 - 🌱 I’m currently working as a front-end developer
 - ✨ I’m looking to collaborate with NASA
+- 🧡 I love Rust ⚙️
 
 <!---
 mikhail-yurin/mikhail-yurin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
